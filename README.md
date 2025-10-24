@@ -31,3 +31,18 @@ Mi nombre es Francis Chavez Osses
 
 ```
 <hr>
+
+<br><br>
+<p align="center">
+  <font color="#8A2BE2" size="5"><b>:globe_with_meridians: Conéctate conmigo</b></font>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/phransye?igsh=cjhsN3k1dWFnc2Q1"_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/IddeDiscord "target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" width="45" height="45"/>
+  </a>
+</p>
