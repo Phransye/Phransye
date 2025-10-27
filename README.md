@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🌸 Estudiante, creadora y exploradora de ideas 🌸  
+  ##🌸 Estudiante, creadora y exploradora de ideas 🌸  
   <br>
   💻 Me encantan los trabajos limpios y aprender cosas nuevas
 </p>
@@ -27,10 +27,10 @@
 - 🔭 Actualmente trabajando en: **mi repositorio personal**
 - 📝 Aprendiendo: **Git, GitHub, Markdown y Japones**
 - 💬 Pregúntame sobre: **Pseudocodigo, Cultura Japonesa, Bienestar animal y Crianza**
-- ⚡ Dato curioso: **He sido hogar temporal de perros aun cuando estoy llena de cosas que hacer**
+- ⚡ Dato curioso: **Tengo un animal de apoyo emocional**
 - 🌱 Gustos: **Amo estar en contacto con la naturaleza y los animales**
-- 🎵 Musica: Rush, Lady Gaga, Soda Stereo, Cristian Castro, Kyary Pamyu Pamyu, Analogfish, The Mass Misile, Vaundy 
-- 💚 : Creo que tipos de vinculos hay como personas en el mundo, no existe una relacion igual a otra.
+- 🎵 Musica: **Rush, Lady Gaga, Soda Stereo, Cristian Castro, Kyary Pamyu Pamyu, Analogfish, The Mass Misile, Vaundy** 
+- 💚 : **Creo que tipos de vinculos hay como personas en el mundo, no existe una relacion igual a otra.**
 
 ✨✨✨
 
