@@ -26,7 +26,6 @@ Mi nombre es Francis Chavez Osses
 💻 Estoy estudiando actualmente Desarrollo Full Stack - Java en un bootcamp de Generation 
 🌟 Estudiante de Japones
 🌱 Me gusta mucho convivir con la naturaleza y los animales
-💖 No creo en la monogamia
 🎵 Musica Japonesa, Rock clasico y Reggaeton
 
 ```
