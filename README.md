@@ -1,35 +1,39 @@
+<!-- Encabezado principal -->
+#<h1 align="center">✨ Hola, soy Franci ✨</h1>
+##<h1 align="center">✨ やっほー,わたし は ふらんしす です ✨</h1>
+
 <p align="center">
 
-  <img src="https://i.postimg.cc/ZnQX4VHj/Rakuen.gif" height="200" />
+  <img src="https://media1.tenor.com/m/ui-XqXQUzPMAAAAC/ryoko-tenchi-muyo.gif" height="200" />
 </p>
-<!--
-**Phransye/Phransye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture>
-
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
-
-<br/>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  🌸 Estudiante, creadora y exploradora de ideas 🌸  
+  <br>
+  💻 Me encantan los trabajos limpios y aprender cosas nuevas
 </p>
 
-<img align="left" src="https://i.postimg.cc/yNRW0btn/Whats-App-Image-2025-10-23-at-12-48-01.jpg" alt="foto" width="500" />
-<hr>
+---
 
-```
-Mi nombre es Francis Chavez Osses
--------------------------
-💻 Estoy estudiando actualmente Desarrollo Full Stack - Java en un bootcamp de Generation 
-🌟 Estudiante de Japones
-🌱 Me gusta mucho convivir con la naturaleza y los animales
-🎵 Musica Japonesa, Rock clasico y Reggaeton
+<!-- Imagen o banner principal -->
+<p align="center">
+  <img src="https://i.postimg.cc/NjzH701s/Cached-Image-1366-768-POS4.png?raw=true" width="800" alt="Banner de presentación">
+</p>
 
-```
-<hr>
+---
+<img align="left" src="https://i.postimg.cc/pLnXRjCP/Diseno-De-Patron-Geometrico.jpg" alt="foto" width="350" />
+### 🌈 Sobre mí
+
+- 🔭 Actualmente trabajando en: **mi repositorio personal**
+- 📝 Aprendiendo: **Git, GitHub, Markdown y Japones**
+- 💬 Pregúntame sobre: **Pseudocodigo, Cultura Japonesa, Bienestar animal y Crianza**
+- ⚡ Dato curioso: **He sido hogar temporal de perros aun cuando estoy llena de cosas que hacer**
+- 🌱 Gustos: **Amo estar en contacto con la naturaleza y los animales**
+- 🎵 Musica: Rush, Lady Gaga, Soda Stereo, Cristian Castro, Kyary Pamyu Pamyu, Analogfish, The Mass Misile, Vaundy 
+- 💚 : Creo que tipos de vinculos hay como personas en el mundo, no existe una relacion igual a otra.
+
+✨✨✨
+
 
 <br><br>
 <p align="center">
