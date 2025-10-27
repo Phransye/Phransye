@@ -42,7 +42,7 @@ Mi nombre es Francis Chavez Osses
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="caca" target="_blank">
+  <a href="https://discord.com/users/756196444674981909" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" width="45" height="45"/>
   </a>
 </p>
